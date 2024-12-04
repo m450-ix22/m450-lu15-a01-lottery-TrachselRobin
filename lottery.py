@@ -1,3 +1,10 @@
+"""
+    AUTHOR:  Robin Trachsel
+    VERSION: 1.0
+    DATE:    04.12.2024
+
+    DESCRIPTION: These functions are the logic behind one lottery ticket
+"""
 from numeric_input import read_int
 from ticket import Ticket
 

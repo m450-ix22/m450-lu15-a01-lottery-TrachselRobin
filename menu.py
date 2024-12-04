@@ -1,3 +1,12 @@
+"""
+    AUTHOR:  Robin Trachsel
+    VERSION: 1.0
+    DATE:    04.12.2024
+
+    DESCRIPTION: These functions are for the design of the menu
+"""
+
+
 def show_menu():
     """
     shows the main menu

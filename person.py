@@ -1,3 +1,10 @@
+"""
+    AUTHOR:  Robin Trachsel
+    VERSION: 1.0
+    DATE:    04.12.2024
+
+    DESCRIPTION: Class for a Person
+"""
 from dataclasses import dataclass
 
 
@@ -6,9 +13,9 @@ class Person:
     """
     a person playing the lottery
     """
-    givenname: str
-    password: str
-    balance: float
+    _givenname: str
+    _password: str
+    _balance: float
 
     @property
     def givenname(self):
