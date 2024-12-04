@@ -26,5 +26,6 @@ def select_menu():
 
     return selection
 
+
 if __name__ == '__main__':
     pass
